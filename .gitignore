@@ -1,0 +1,12 @@
+source/
+site/server.out.log
+site/server.err.log
+__pycache__/
+*.pyc
+.venv/
+nav.db
+uploads/
+site/uploads/
+ops_hosts.local.json
+*.pid
+nav.db.bak*
